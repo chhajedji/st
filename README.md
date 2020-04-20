@@ -32,3 +32,7 @@ Credits
 -------
 Based on Aurélien APTEL <aurelien dot aptel at gmail dot com> bt source code.
 
+Patches
+-------
+
+[Alpa focus highlight](https://st.suckless.org/patches/alpha_focus_highlight/) - Different transparency for focused window.
