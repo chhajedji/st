@@ -36,3 +36,4 @@ Patches
 -------
 
 [Alpa focus highlight](https://st.suckless.org/patches/alpha_focus_highlight/) - Different transparency for focused window.
+[Box Draw](https://st.suckless.org/patches/boxdraw/) - Custom rendering of lines/blocks/braille characters for gapless alignment.
