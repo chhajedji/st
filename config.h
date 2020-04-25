@@ -9,8 +9,8 @@ static char *font = "Noto Mono:size=12:antialias=true:autohint=true";
 
 /* Spare fonts */
 static char *font2[] = {
-/*     "Inconsolata for Powerline:pixelsize=12:antialias=true:autohint=true", */
-/*     "Hack Nerd Font Mono:pixelsize=11:antialias=true:autohint=true", */
+    "Hack:style=Regular:antialias=true:size=12",
+    "Symbola:style=Regular:antialias=true:size=12",
 };
 
 static int borderpx = 2;
@@ -218,7 +218,7 @@ static Shortcut shortcuts[] = {
 	{ TERMMOD,		XK_Num_Lock,	numlock,	{.i =  0} },
 	{ ShiftMask,		XK_Page_Up,	kscrollup,	{.i = -1} },
 	{ ShiftMask,		XK_Page_Down,	kscrolldown,	{.i = -1} },
-	{ ShiftMask,            XK_Insert,	selpaste,	{.i =  0} },
+	{ ShiftMask,		XK_Insert,	selpaste,	{.i =  0} },
 };
 
 /*
