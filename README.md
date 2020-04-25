@@ -38,5 +38,5 @@ Patches
 - [Alpa focus highlight](https://st.suckless.org/patches/alpha_focus_highlight/) - Different transparency for focused window.
 - [Box Draw](https://st.suckless.org/patches/boxdraw/) - Custom rendering of lines/blocks/braille characters for gapless alignment.
 - [Scrollback](https://st.suckless.org/patches/scrollback/) - Add keyboard scroll back feature. All patches present on page are applied.
-- [font2](https://st.suckless.org/patches/font2/) - Adds fallback fonts.
+- [font2](https://st.suckless.org/patches/font2/) - Adds fallback fonts. **Be sure to use proper fallback font as `st` crashes when rendering gylph/special symobls. A good fallback font for this purpose could be [Symbola](https://fontlibrary.org/en/font/symbola).**
 - [hidecursor](https://st.suckless.org/patches/hidecursor/) - Hides cursor when typing.
