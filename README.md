@@ -35,7 +35,8 @@ Based on Aurélien APTEL <aurelien dot aptel at gmail dot com> bt source code.
 Patches
 -------
 
-[Alpa focus highlight](https://st.suckless.org/patches/alpha_focus_highlight/) - Different transparency for focused window.
-[Box Draw](https://st.suckless.org/patches/boxdraw/) - Custom rendering of lines/blocks/braille characters for gapless alignment.
-[Scrollback](https://st.suckless.org/patches/scrollback/) - Add keyboard scroll back feature. All patches present on page are applied.
-[font2](https://st.suckless.org/patches/font2/) - Adds fallback fonts.
+- [Alpa focus highlight](https://st.suckless.org/patches/alpha_focus_highlight/) - Different transparency for focused window.
+- [Box Draw](https://st.suckless.org/patches/boxdraw/) - Custom rendering of lines/blocks/braille characters for gapless alignment.
+- [Scrollback](https://st.suckless.org/patches/scrollback/) - Add keyboard scroll back feature. All patches present on page are applied.
+- [font2](https://st.suckless.org/patches/font2/) - Adds fallback fonts.
+- [hidecursor](https://st.suckless.org/patches/hidecursor/) - Hides cursor when typing.
