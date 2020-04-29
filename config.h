@@ -225,6 +225,7 @@ static Shortcut shortcuts[] = {
 	{ ShiftMask,		XK_Down,	kscrolldown,	{.i =  1} },
 	{ MODKEY,		XK_k,		kscrollup,	{.i =  1} },
 	{ MODKEY,		XK_j,		kscrolldown,	{.i =  1} },
+	{ MODKEY,               XK_l,           copyurl,        {.i =  0} },
 };
 
 /*

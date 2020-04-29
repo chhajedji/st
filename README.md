@@ -40,3 +40,4 @@ Patches
 - [Scrollback](https://st.suckless.org/patches/scrollback/) - Add keyboard scroll back feature. All patches present on page are applied.
 - [font2](https://st.suckless.org/patches/font2/) - Adds fallback fonts. **Be sure to use proper fallback font as `st` crashes when rendering gylph/special symobls. A good fallback font for this purpose could be [Symbola](https://fontlibrary.org/en/font/symbola).**
 - [hidecursor](https://st.suckless.org/patches/hidecursor/) - Hides cursor when typing.
+- [copyurl](https://st.suckless.org/patches/copyurl/) - Highlights and copies URL displayed on terminal.
