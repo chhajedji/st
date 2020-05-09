@@ -42,3 +42,4 @@ Patches
 - [hidecursor](https://st.suckless.org/patches/hidecursor/) - Hides cursor when typing.
 - [copyurl](https://st.suckless.org/patches/copyurl/) - Highlights and copies URL displayed on terminal.
 - [clipboard](https://st.suckless.org/patches/clipboard/) - Copy and paste to system clipboard with keybinding and selection clipboard with mouse.
+- [xresources](https://st.suckless.org/patches/xresources/) - Use config from global Xresources.
