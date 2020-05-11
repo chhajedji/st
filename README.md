@@ -43,3 +43,4 @@ Patches
 - [copyurl](https://st.suckless.org/patches/copyurl/) - Highlights and copies URL displayed on terminal.
 - [clipboard](https://st.suckless.org/patches/clipboard/) - Copy and paste to system clipboard with keybinding and selection clipboard with mouse.
 - [xresources](https://st.suckless.org/patches/xresources/) - Use config from global Xresources.
+- [keyboard_select](https://st.suckless.org/patches/keyboard_select/) - Perform actions like Move, search etc with keyboard. All actions listed at patch's page. Similar to URxvt's keyboard_select. It only works for current screen and not all text in terminal from start.
